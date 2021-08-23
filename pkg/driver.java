@@ -214,7 +214,7 @@ public class driver {
 			@Override
 			public void windowClosing(WindowEvent e) {
 				
-				//tabs.closeTabs();
+				tabs.closeTabs();
 				//msg2.closeTabs();
 				//msg3.closeTabs();
 				msg4.closeTabs();
@@ -241,7 +241,7 @@ public class driver {
 						"Running in background! \n IMPORTANT: To close the tabs simply close the TATA refresher application \n DO NOT close the broswers manually");
 				// {
 
-				//t1.start();
+				t1.start();
 				
 				//t2.start();
 				

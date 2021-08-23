@@ -162,7 +162,7 @@ public class webDriver {
 	
 		options.setHeadless(true);
 		
-
+		chooseProfile();
 		
 
 		
@@ -183,7 +183,7 @@ public class webDriver {
 		message2 = "4295884799";
 		//TimeUnit.MINUTES.sleep(10);
 		
-		tgBot();
+	//	tgBot();
 		//t2.join();
 
 	}
